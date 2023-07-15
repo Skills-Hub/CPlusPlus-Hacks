@@ -10,39 +10,39 @@ C++ is a powerful and versatile programming language widely used in the software
 
 | Topic                              | Description                                   |
 | ---------------------------------- | --------------------------------------------- |
-| C++ Syntax                         | Introduction to the syntax of the C++ language |
-| C++ Output                         | Outputting data in C++                         |
-| C++ Comments                       | Using comments to add notes and explanations    |
-| C++ Variables                      | Declaring and working with variables            |
-| C++ User Input                     | Taking input from the user                      |
-| C++ Data Types                     | Different data types in C++                     |
-| C++ Operators                      | Arithmetic, logical, and assignment operators   |
-| C++ Strings                        | Manipulating and working with strings           |
-| C++ Math                           | Performing mathematical operations in C++       |
-| C++ Booleans                       | Working with Boolean values                     |
-| C++ Conditions                     | Using if, else if, and else statements          |
-| C++ Switch                         | Switch statement and case-based branching       |
-| C++ While Loop                     | Executing code repeatedly with while loop       |
-| C++ For Loop                       | Repeating code with for loop                    |
-| C++ Break/Continue                 | Breaking out of loops and skipping iterations   |
-| C++ Arrays                         | Storing and accessing multiple values           |
-| C++ Structures                     | Creating custom data structures                 |
-| C++ References                     | Working with references in C++                  |
-| C++ Pointers                       | Understanding and using pointers                |
-| C++ Functions                      | Writing and calling functions                   |
-| C++ Function Parameters            | Passing arguments to functions                  |
-| C++ Function Overloading           | Defining multiple functions with the same name  |
-| C++ Recursion                      | Recursive function calls                        |
-| C++ Classes                        | Introduction to classes and objects             |
-| C++ Object-Oriented Programming    | Fundamentals of OOP in C++                      |
-| C++ Class Methods                  | Member functions of a class                     |
-| C++ Constructors                   | Creating and initializing objects               |
-| C++ Access Specifiers              | Public, private, and protected access           |
-| C++ Encapsulation                  | Data hiding and encapsulation                   |
-| C++ Inheritance                    | Extending classes through inheritance           |
-| C++ Polymorphism                   | Implementing polymorphic behavior               |
-| C++ Files                          | Reading from and writing to files               |
-| C++ Exceptions                     | Handling and throwing exceptions                |
+| [C++ Syntax]()                     | Introduction to the syntax of the C++ language |
+| [C++ Output]()                     | Outputting data in C++                         |
+| [C++ Comments]()                   | Using comments to add notes and explanations    |
+| [C++ Variables]()                  | Declaring and working with variables            |
+| [C++ User Input]()                 | Taking input from the user                      |
+| [C++ Data Types]()                 | Different data types in C++                     |
+| [C++ Operators]()                  | Arithmetic, logical, and assignment operators   |
+| [C++ Strings]()                    | Manipulating and working with strings           |
+| [C++ Math]()                       | Performing mathematical operations in C++       |
+| [C++ Booleans]()                   | Working with Boolean values                     |
+| [C++ Conditions]()                 | Using if, else if, and else statements          |
+| [C++ Switch]()                     | Switch statement and case-based branching       |
+| [C++ While Loop]()                 | Executing code repeatedly with while loop       |
+| [C++ For Loop]()                   | Repeating code with for loop                    |
+| [C++ Break/Continue]()             | Breaking out of loops and skipping iterations   |
+| [C++ Arrays]()                     | Storing and accessing multiple values           |
+| [C++ Structures]()                 | Creating custom data structures                 |
+| [C++ References]()                 | Working with references in C++                  |
+| [C++ Pointers]()                   | Understanding and using pointers                |
+| [C++ Functions]()                  | Writing and calling functions                   |
+| [C++ Function Parameters]()        | Passing arguments to functions                  |
+| [C++ Function Overloading]()       | Defining multiple functions with the same name  |
+| [C++ Recursion]()                  | Recursive function calls                        |
+| [C++ Classes]()                    | Introduction to classes and objects             |
+| [C++ Object-Oriented Programming]()| Fundamentals of OOP in C++                      |
+| [C++ Class Methods]()              | Member functions of a class                     |
+| [C++ Constructors]()               | Creating and initializing objects               |
+| [C++ Access Specifiers]()          | Public, private, and protected access           |
+| [C++ Encapsulation]()              | Data hiding and encapsulation                   |
+| [C++ Inheritance]()                | Extending classes through inheritance           |
+| [C++ Polymorphism]()               | Implementing polymorphic behavior               |
+| [C++ Files]()                      | Reading from and writing to files               |
+| [C++ Exceptions]()                 | Handling and throwing exceptions                |
 
 ## Conclusion
 
