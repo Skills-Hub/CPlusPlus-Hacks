@@ -10,7 +10,7 @@ C++ is a powerful and versatile programming language widely used in the software
 
 | Topic                              | Description                                   |
 | ---------------------------------- | --------------------------------------------- |
-| [C++ Syntax]()                     | Introduction to the syntax of the C++ language |
+| [C++ Syntax](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Intro-Syntax)                     | Introduction to the syntax of the C++ language |
 | [C++ Output]()                     | Outputting data in C++                         |
 | [C++ Comments]()                   | Using comments to add notes and explanations    |
 | [C++ Variables]()                  | Declaring and working with variables            |
