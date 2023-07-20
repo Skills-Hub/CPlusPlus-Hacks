@@ -13,7 +13,7 @@ C++ is a powerful and versatile programming language widely used in the software
 | [C++ Intro & Syntax](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Intro-Syntax)                     | Introduction to the syntax of the C++ language |
 | [C++ Output](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Output)                     | Outputting data in C++                         |
 | [C++ Comments](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Comments)                   | Using comments to add notes and explanations    |
-| [C++ Variables]()                  | Declaring and working with variables            |
+| [C++ Variables](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Variables)                  | Declaring and working with variables            |
 | [C++ User Input]()                 | Taking input from the user                      |
 | [C++ Data Types]()                 | Different data types in C++                     |
 | [C++ Operators]()                  | Arithmetic, logical, and assignment operators   |
