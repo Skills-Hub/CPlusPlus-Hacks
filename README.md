@@ -17,7 +17,7 @@ C++ is a powerful and versatile programming language widely used in the software
 | [C++ User Input](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/User%20Input)                 | Taking input from the user                      |
 | [C++ Data Types](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Data%20Types)                 | Different data types in C++                     |
 | [C++ Operators](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Operators)                  | Arithmetic, logical, and assignment operators   |
-| [C++ Strings]()                    | Manipulating and working with strings           |
+| [C++ Strings](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Strings)                    | Manipulating and working with strings           |
 | [C++ Math]()                       | Performing mathematical operations in C++       |
 | [C++ Booleans]()                   | Working with Boolean values                     |
 | [C++ Conditions]()                 | Using if, else if, and else statements          |
