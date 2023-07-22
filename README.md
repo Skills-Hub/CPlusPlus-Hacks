@@ -20,7 +20,7 @@ C++ is a powerful and versatile programming language widely used in the software
 | [C++ Strings](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Strings)                    | Manipulating and working with strings           |
 | [C++ Math](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Math)                       | Performing mathematical operations in C++       |
 | [C++ Booleans](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Booleans)                   | Working with Boolean values                     |
-| [C++ Conditions](https://github.com/Skills-Hub/CPlusPlus-Hacks/blob/main/Conditions/Conditions%20Quiz.md)                 | Using if, else if, and else statements          |
+| [C++ Conditions](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Conditions)                 | Using if, else if, and else statements          |
 | [C++ Switch]()                     | Switch statement and case-based branching       |
 | [C++ While Loop]()                 | Executing code repeatedly with while loop       |
 | [C++ For Loop]()                   | Repeating code with for loop                    |
