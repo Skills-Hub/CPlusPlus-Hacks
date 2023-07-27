@@ -28,7 +28,7 @@ C++ is a powerful and versatile programming language widely used in the software
 | [C++ Arrays](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Arrays)                     | Storing and accessing multiple values           |
 | [C++ Structures](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Structures)                 | Creating custom data structures                 |
 | [C++ References](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/References)                 | Working with references in C++                  |
-| [C++ Pointers]()                   | Understanding and using pointers                |
+| [C++ Pointers](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Pointers)                   | Understanding and using pointers                |
 | [C++ Functions]()                  | Writing and calling functions                   |
 | [C++ Function Parameters]()        | Passing arguments to functions                  |
 | [C++ Function Overloading]()       | Defining multiple functions with the same name  |
