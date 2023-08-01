@@ -30,7 +30,7 @@ C++ is a powerful and versatile programming language widely used in the software
 | [C++ References](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/References)                 | Working with references in C++                  |
 | [C++ Pointers](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Pointers )                   | Understanding and using pointers                |
 | [C++ Functions](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Functions)                  | Writing and calling functions                   |
-| [C++ Function Parameters]()        | Passing arguments to functions                  |
+| [C++ Function Parameters](https://github.com/Skills-Hub/CPlusPlus-Hacks/tree/main/Function%20Parameters)        | Passing arguments to functions                  |
 | [C++ Function Overloading]()       | Defining multiple functions with the same name  |
 | [C++ Recursion]()                  | Recursive function calls                        |
 | [C++ Classes]()                    | Introduction to classes and objects             |
